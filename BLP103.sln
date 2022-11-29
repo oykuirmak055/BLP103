@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLP103", "BLP103\BLP103.csproj", "{202FACDA-8646-4228-9982-2ECC99BDCFDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Degiskenler", "Degiskenler\Degiskenler.csproj", "{DF3CB822-6621-4728-8318-CE6B95CEE7EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operatörler", "Operatörler\Operatörler.csproj", "{B663A7AD-6731-4ED6-92A5-C518C7CC96A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{202FACDA-8646-4228-9982-2ECC99BDCFDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{202FACDA-8646-4228-9982-2ECC99BDCFDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{202FACDA-8646-4228-9982-2ECC99BDCFDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{202FACDA-8646-4228-9982-2ECC99BDCFDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF3CB822-6621-4728-8318-CE6B95CEE7EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF3CB822-6621-4728-8318-CE6B95CEE7EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF3CB822-6621-4728-8318-CE6B95CEE7EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF3CB822-6621-4728-8318-CE6B95CEE7EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B663A7AD-6731-4ED6-92A5-C518C7CC96A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B663A7AD-6731-4ED6-92A5-C518C7CC96A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B663A7AD-6731-4ED6-92A5-C518C7CC96A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B663A7AD-6731-4ED6-92A5-C518C7CC96A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D558B016-586B-4328-9258-809571B3B78C}
+	EndGlobalSection
+EndGlobal
