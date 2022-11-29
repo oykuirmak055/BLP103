@@ -35,8 +35,7 @@
 
         //Arttırma operatörü
 
-        if (true)
-            Console.WriteLine("çalıştı");
+       
 
     }
 }
