@@ -3,11 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLP103", "BLP103\BLP103.csproj", "{202FACDA-8646-4228-9982-2ECC99BDCFDD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BLP103", "BLP103\BLP103.csproj", "{202FACDA-8646-4228-9982-2ECC99BDCFDD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Degiskenler", "Degiskenler\Degiskenler.csproj", "{DF3CB822-6621-4728-8318-CE6B95CEE7EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Degiskenler", "Degiskenler\Degiskenler.csproj", "{DF3CB822-6621-4728-8318-CE6B95CEE7EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operatörler", "Operatörler\Operatörler.csproj", "{B663A7AD-6731-4ED6-92A5-C518C7CC96A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operatörler", "Operatörler\Operatörler.csproj", "{B663A7AD-6731-4ED6-92A5-C518C7CC96A0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kosullar", "Kosullar\Kosullar.csproj", "{2420CD2D-60E8-4A0A-A192-2BFEBF10D15A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{80FDFE40-847D-49D6-9755-2D205F8A5A2B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{B663A7AD-6731-4ED6-92A5-C518C7CC96A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B663A7AD-6731-4ED6-92A5-C518C7CC96A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B663A7AD-6731-4ED6-92A5-C518C7CC96A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2420CD2D-60E8-4A0A-A192-2BFEBF10D15A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2420CD2D-60E8-4A0A-A192-2BFEBF10D15A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2420CD2D-60E8-4A0A-A192-2BFEBF10D15A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2420CD2D-60E8-4A0A-A192-2BFEBF10D15A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80FDFE40-847D-49D6-9755-2D205F8A5A2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80FDFE40-847D-49D6-9755-2D205F8A5A2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80FDFE40-847D-49D6-9755-2D205F8A5A2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80FDFE40-847D-49D6-9755-2D205F8A5A2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
